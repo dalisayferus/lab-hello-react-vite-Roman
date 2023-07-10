@@ -1,0 +1,23 @@
+.App {
+  background-color: white;
+}
+
+h1 {
+  color: black;
+}
+
+p {
+  color: rgb(83, 83, 83);
+}
+
+.Navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.Information {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
